@@ -11,3 +11,4 @@ Example project showing how we lose the focus and cannot navigate after text inp
 
 After 3-4 repetitions the traversal fails and the keyboard appears when select or a keyboard key is pressed.
 
+https://imgur.com/a/H3oqzJi
